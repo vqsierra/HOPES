@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+    - files/**
+
+website:
+  title: "HOPES Study"
+  site-url: https://delasierra.io/HOPES/
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        menu:
+          - text: "About"
+            href: About.qmd
+          - text: "Frequently Asked Questions"
+            href: About.qmd#faq
+          - text: "Collaborations & Researchers"
+            href: About.qmd#collaborations
+          - text: "Contact"
+            href: About.qmd#contact
+      - text: "Get Help Now"
+        href: https://findahelpline.com/us/topics/suicidal-thoughts
+      - text: "Resources"
+        href: Resources.qmd
+      - text: "Screener Tool"
+        href: Screener-Tool.qmd
+  page-footer:
+    center: |
+      If you or someone you know is in crisis, call or text [988](tel:988).<br>
+      Helping Our People End Suicide Study | 2024
+format:
+  html:
+    theme: [sandstone, theme.scss]
+    css: styles.css
+    toc: false
