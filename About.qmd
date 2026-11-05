@@ -10,6 +10,8 @@ aliases:
 The Helping Our People End Suicide (HOPES) Study engaged the Sacramento Native American community and staff at the Sacramento Native American Health Center (SNAHC) about the appropriateness and feasibility of developing and utilizing a culture-based suicide screening assessment. The study aimed to prevent suicide among Native American youth in the Sacramento community by promoting culturally relevant assessments and resulting care coordination and planning.
 
 The HOPES Study was a community-based participatory research project. It centered the youth voice and family perspective throughout the development of the new suicide screener. Youth, community and family members, as well as SNAHC staff were invited to participate. Personal experiences and community knowledge were essential in gaining a comprehensive understanding of how to best recognize and prevent suicide.
+
+The study produced the [HOPES Screener](Screener-Tool.qmd), a one-page tool with questions about daily needs, social support, cultural practices, and experiences such as loneliness and bullying.
 :::
 
 ![](images/HOPES03.15.23.jpg){fig-alt="A raised hand holding a strand of blue, green, and wooden beads against the sky."}
@@ -69,6 +71,12 @@ Learn more about the HOPES Study including guiding theories, research questions,
 
 :::
 
+## Related Work
+
+- **Study registration:** [Helping Our People End Suicide Study](https://osf.io/ux2v8/) on the Open Science Framework.
+- **Related research:** [Predicting Suicidal Ideation Among Native American High Schoolers in California](https://doi.org/10.1080/13811118.2025.2490154) in *Archives of Suicide Research*.
+- **Related method:** [A Guide to Constructing Indigenous Statistical Spaces for Prevention Science Research](https://doi.org/10.1007/s11121-026-01911-5) in *Prevention Science*.
+
 ## Collaborations & Researchers {#collaborations}
 
 []{#sec-05d7}
@@ -87,7 +95,7 @@ SNAHC is a non-profit 501(c)(3) Federally Qualified Health Center committed to c
 ::: {}
 ### Valentín Quiroz de la Sierra, Ph.D
 
-Dr. Val earned his Ph.D. from the UC Berkeley School of Social Welfare. Dr. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Native American young people through culturally grounded practices and interventions. He holds a M.S.W. from Berkeley Social Welfare and a B.A. in Native American Studies, with highest honors, from UC Davis. He is an Associate Clinical Social Worker and an active member of the California Yo’eme (Yaqui) Indian community.
+Dr. Val is a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. He earned his Ph.D. from the UC Berkeley School of Social Welfare. Dr. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Native American young people through culturally grounded practices and interventions. He holds a M.S.W. from Berkeley Social Welfare and a B.A. in Native American Studies, with highest honors, from UC Davis. He previously practiced as an Associate Clinical Social Worker and is an active member of the California Yo’eme (Yaqui) Indian community.
 :::
 
 ![](images/VQS2024.jpeg){fig-alt="Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowboy hat and glasses."}
