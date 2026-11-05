@@ -1,0 +1,43 @@
+/* Home hero */
+.hopes-hero {
+  background: linear-gradient(rgba(16, 45, 74, 0.62), rgba(16, 45, 74, 0.62)), url("images/HOPES03.15.23.jpg") center 35% / cover no-repeat;
+  color: #fff;
+  min-height: calc(100vh - 150px);
+  display: flex;
+  align-items: center;
+}
+.hopes-hero-inner { max-width: 760px; margin: 0 auto; padding: 4rem 1.5rem; }
+.hopes-hero h1 { color: #fff; border: 0; font-size: clamp(2.2rem, 6vw, 3.6rem); font-weight: 700; line-height: 1.1; margin: 0 0 1.25rem; }
+.hopes-hero p { font-size: 1.15rem; line-height: 1.55; margin-bottom: 1.75rem; }
+.hopes-hero .btn { background: #fff; border-color: #fff; color: #2c6aa3; font-weight: 600; }
+.hopes-hero .btn:hover, .hopes-hero .btn:focus { background: #eef4fa; border-color: #eef4fa; color: #1f4f7c; }
+
+/* Photo beside text */
+.hopes-split { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 2rem; align-items: start; margin-bottom: 1.5rem; }
+.hopes-split img { width: 100%; height: auto; border-radius: 6px; }
+.hopes-split p:last-child { margin-bottom: 0; }
+
+/* Resource list */
+.hopes-resource { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 1.5rem; align-items: center; padding: 1.25rem 0; border-bottom: 1px solid #d7e3ef; }
+.hopes-resource:last-child { border-bottom: 0; }
+.hopes-resource img { max-width: 150px; max-height: 90px; width: auto; height: auto; }
+.hopes-resource h3 { margin: 0 0 0.25rem; font-size: 1.15rem; }
+.hopes-resource .hopes-action { font-weight: 600; margin-bottom: 0.35rem; }
+.hopes-resource p:last-child { margin-bottom: 0; }
+
+/* Download blocks */
+.hopes-downloads { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin: 1rem 0 2rem; }
+.hopes-download { background: #eef4fa; border-radius: 6px; padding: 1.25rem; }
+.hopes-download h3 { margin-top: 0; font-size: 1.1rem; }
+
+.hopes-screener-images { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+.hopes-screener-images img { width: 100%; height: 100%; object-fit: cover; border-radius: 6px; }
+
+@media (max-width: 767.98px) {
+  .hopes-split { grid-template-columns: minmax(0, 1fr); }
+  .hopes-resource { grid-template-columns: minmax(0, 1fr); gap: 0.75rem; }
+}
+
+/* Keep the crisis line on one line where it fits. */
+.nav-footer-center { flex: 1 1 auto; }
+.nav-footer-left, .nav-footer-right { flex: 0 0 0; }
