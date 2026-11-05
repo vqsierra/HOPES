@@ -67,13 +67,6 @@ Learn more about the HOPES Study including guiding theories, research questions,
 [Download Now](files/HOPESProjectNarrative12.22.pdf){.btn .btn-primary}
 :::
 
-::: {.hopes-download}
-### Information for Parents
-
-Learn more about youth participation in the HOPES Study.
-
-[Download Now](files/HOPESParentInfo04.27.23-2.pdf){.btn .btn-primary}
-:::
 :::
 
 ## Collaborations & Researchers {#collaborations}
