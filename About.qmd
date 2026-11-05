@@ -7,9 +7,9 @@ aliases:
 
 ::: {.hopes-split}
 ::: {}
-The Helping Our People End Suicide (HOPES) Study will engage the Sacramento Native American community and staff at the Sacramento Native American Health Center (SNAHC) about the appropriateness and feasibility of developing and utilizing a culture-based suicide screening assessment. The study hopes to prevent suicide among Native American youth in the Sacramento community by promoting culturally relevant assessments and resulting care coordination and planning.
+The Helping Our People End Suicide (HOPES) Study engaged the Sacramento Native American community and staff at the Sacramento Native American Health Center (SNAHC) about the appropriateness and feasibility of developing and utilizing a culture-based suicide screening assessment. The study aimed to prevent suicide among Native American youth in the Sacramento community by promoting culturally relevant assessments and resulting care coordination and planning.
 
-The HOPES Study is a community-based participatory research project. It will center the youth voice and family perspective throughout the development of the new suicide screener. Youth, community and family members, as well as SNAHC staff are invited to participate. Personal experiences and community knowledge are essential in gaining a comprehensive understanding of how to best recognize and prevent suicide.
+The HOPES Study was a community-based participatory research project. It centered the youth voice and family perspective throughout the development of the new suicide screener. Youth, community and family members, as well as SNAHC staff were invited to participate. Personal experiences and community knowledge were essential in gaining a comprehensive understanding of how to best recognize and prevent suicide.
 :::
 
 ![](images/HOPES03.15.23.jpg){fig-alt="A raised hand holding a strand of blue, green, and wooden beads against the sky."}
@@ -26,7 +26,7 @@ Youth, community and family members, as well as SNAHC staff were invited to part
 **Youth Participant Eligibility:**
 
 - Self-identify as Native American or Indigenous
-- Aged 13 - 24 years old; Minors aged 13-17 years old, consent of a parent or legal guardian is required
+- Aged 13 - 24 years old; Minors aged 13-17 years old, consent of a parent or legal guardian was required
 - Primary residence in Sacramento County
 
 **Community Member Participant Eligibility:**
@@ -42,7 +42,7 @@ Youth, community and family members, as well as SNAHC staff were invited to part
 
 ### What kind of information was collected?
 
-The HOPES Study is a mixed-methods study that will use both qualitative and quantitative methods. Qualitative data involves peoples’ stories and personal experiences. Quantitative data includes numbers and statistics.
+The HOPES Study was a mixed-methods study that used both qualitative and quantitative methods. Qualitative data involves peoples’ stories and personal experiences. Quantitative data includes numbers and statistics.
 
 Qualitative data was gathered using one-on-one interviews. Focus groups were also used. Quantitative data was gathered using surveys and questionnaires. For both kinds of data, participants were asked about their opinions on current suicide screening protocols. Participants were also asked about their ideas on how to improve culturally responsive care. Questions about suicide stigma were also asked.
 
@@ -54,7 +54,7 @@ The HOPES Screener tool is currently in the evaluation and validation phase. SNA
 
 ### Why is preventing suicide important?
 
-Suicide remains an urgent mental health disparity for Native American young people. According to the Centers for Disease Control and Prevention, suicide is the leading cause of non-accidental death for youth ages 10 through 24. Compared to other ethnic-racial groups, suicide impacts Native American communities at the highest rate. Several studies also point out that suicide is more common in urban Native American communities. These statistics remain true in Sacramento County which is home to one of the many large, urban communities of Native American people in California. The HOPES Study looks to end suicide by identifying early warning signs and connecting youth in need of extra support to the necessary clinical and cultural services.
+Suicide remains an urgent mental health disparity for Native American young people. According to the Centers for Disease Control and Prevention, suicide is the leading cause of non-accidental death for youth ages 10 through 24. Compared to other ethnic-racial groups, suicide impacts Native American communities at the highest rate. Several studies also point out that suicide is more common in urban Native American communities. These statistics remain true in Sacramento County which is home to one of the many large, urban communities of Native American people in California. The HOPES Study looked to end suicide by identifying early warning signs and connecting youth in need of extra support to the necessary clinical and cultural services.
 
 ## More Information
 
@@ -70,7 +70,7 @@ Learn more about the HOPES Study including guiding theories, research questions,
 ::: {.hopes-download}
 ### Information for Parents
 
-Learn more about your child's potential participation in the HOPES Study.
+Learn more about youth participation in the HOPES Study.
 
 [Download Now](files/HOPESParentInfo04.27.23-2.pdf){.btn .btn-primary}
 :::
@@ -92,18 +92,18 @@ SNAHC is a non-profit 501(c)(3) Federally Qualified Health Center committed to c
 
 ::: {.hopes-split}
 ::: {}
-### Valentín Quiroz Sierra, Ph.D
+### Valentín Quiroz de la Sierra, Ph.D
 
-Doctor Sierra earned his Ph.D. from the UC Berkeley School of Social Welfare. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Native American young people through culturally grounded practices and interventions. Val holds a M.S.W. from Berkeley Social Welfare and a B.A. in Native American Studies, with highest honors, from UC Davis. Val is an Associate Clinical Social Worker and an active member of the California Yoeme (Yaqui) Indian community.
+Dr. Val earned his Ph.D. from the UC Berkeley School of Social Welfare. Dr. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Native American young people through culturally grounded practices and interventions. He holds a M.S.W. from Berkeley Social Welfare and a B.A. in Native American Studies, with highest honors, from UC Davis. He is an Associate Clinical Social Worker and an active member of the California Yo’eme (Yaqui) Indian community.
 :::
 
-![](images/VQS2024.jpeg){fig-alt="Portrait of Valentín Quiroz Sierra, smiling, in a cream cowboy hat and glasses."}
+![](images/VQS2024.jpeg){fig-alt="Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowboy hat and glasses."}
 :::
 
 ## Contact {#contact}
 
 []{#sec-ca10}
 
-Please direct questions about the HOPES Study to Val Sierra at [vqsierra@berkeley.edu](mailto:vqsierra@berkeley.edu).
+Please direct questions about the HOPES Study to Dr. Val at [vsierra4@jh.edu](mailto:vsierra4@jh.edu).
 
 If you have any questions or concerns about your rights and treatment as a participant, you can contact UC Berkeley's Committee for the Protection of Human Subjects, at [(510) 642-7461](tel:510-642-7461) or [subjects@berkeley.edu](mailto:subjects@berkeley.edu).

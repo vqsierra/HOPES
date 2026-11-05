@@ -9,7 +9,7 @@ aliases:
 ::: {.hopes-hero-inner}
 # Helping Our People End Suicide Study {.unnumbered .unlisted}
 
-The Helping Our People End Suicide (HOPES) Study aims to prevent suicide among Native American youth by creating a culture-based suicide screener designed by, with, and for the Sacramento Native American community.
+The Helping Our People End Suicide (HOPES) Study aimed to prevent suicide among Native American youth by creating a culture-based suicide screener designed by, with, and for the Sacramento Native American community.
 
 [Learn More](About.qmd){.btn .btn-primary}
 :::
