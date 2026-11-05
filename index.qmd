@@ -1,0 +1,16 @@
+---
+pagetitle: "HOPES Study"
+page-layout: custom
+aliases:
+  - Home.html
+---
+
+::: {.hopes-hero role="img" aria-label="A raised hand holding a strand of blue, green, and wooden beads against the sky."}
+::: {.hopes-hero-inner}
+# Helping Our People End Suicide Study {.unnumbered .unlisted}
+
+The Helping Our People End Suicide (HOPES) Study aimed to prevent suicide among Native American youth by creating a culture-based suicide screener designed by, with, and for the Sacramento Native American community.
+
+[Learn More](About.qmd){.btn .btn-primary}
+:::
+:::
